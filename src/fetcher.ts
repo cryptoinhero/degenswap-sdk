@@ -11,7 +11,7 @@ import { Token } from './entities/token'
 
 let TOKEN_DECIMALS_CACHE: { [chainId: number]: { [address: string]: number } } = {
   [ChainId.MAINNET]: {
-    '0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A': 9 // DGD
+    '0x9ba3e4f84a34df4e08c112e1a0ff148b81655615': 9 // SHIBA
   }
 }
 

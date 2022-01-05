@@ -12,7 +12,6 @@ import {
   MINIMUM_LIQUIDITY,
   ZERO,
   ONE,
-  FIVE,
   FEES_NUMERATOR,
   FEES_DENOMINATOR,
   ChainId,
